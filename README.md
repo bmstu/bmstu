@@ -1,4 +1,4 @@
-# Hi there 👋. It's a collection of awesome projects in Bauman Moscow State Technical University
+# Here is a collection of awesome projects in Bauman Moscow State Technical University
 
 ## Robotics
 ### 1. <a href="https://github.com/hidronautics"> <img src="https://github.com/bmstu/bmstu/blob/b8280581ffcb9d17e9570a38dc39196d1e27f7ae/logos/hydronautics/hydronautics_logo.jpg" width="200"/></a>
