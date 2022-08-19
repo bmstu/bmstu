@@ -1,24 +1,23 @@
-### Hi there 👋
-
-Links to awesome projects in Bauman Moscow State Technical University
+### Hi there 👋. It's a collection of awesome projects in Bauman Moscow State Technical University
 
 # Robotics
 ## [1. Hydronautics](https://github.com/hidronautics)
-Our underwater robotics team. They make AUVs and ROVs to participate in competitions like [SAUVC](https://sauvc.org/), [MATE ROV](https://www.materovcompetition.org/), [ASRTU](http://www.asrtu.cn/en).
+<div id="header" align="center">
+  <img src="https://sun9-1.userapi.com/impg/AWKV_1V0PjoyePUtF9u1r9P3ed0r1GTEeEzQhg/FovbjUxTWf0.jpg?size=2159x2160&quality=95&sign=80bbbf7379fe1f66931f8f939c575fcb&type=album" width="100"/>
+</div>
+Our underwater robotics team. They make AUVs and ROVs to participate in competitions like [SAUVC](https://sauvc.org), [MATE ROV](https://www.materovcompetition.org), [ASRTU](http://www.asrtu.cn/en).
 
-Check them out: [GitHub](https://github.com/hidronautics) [VK](https://vk.com/hydronautics) [Instagram](https://instagram.com/hydronautics)
-
-<!--
-**bmstu/bmstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="https://github.com/hidronautics">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://vk.com/hydronautics">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC0Fo9JXRShJFGhzbZiWTJYQ/featured">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://instagram.com/hydronautics">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
