@@ -2,9 +2,7 @@
 
 # Robotics
 ## [1. Hydronautics](https://github.com/hidronautics)
-<div id="header" align="center">
-  <img src="https://sun9-1.userapi.com/impg/AWKV_1V0PjoyePUtF9u1r9P3ed0r1GTEeEzQhg/FovbjUxTWf0.jpg?size=2159x2160&quality=95&sign=80bbbf7379fe1f66931f8f939c575fcb&type=album" width="100"/>
-</div>
+
 Our underwater robotics team. They make AUVs and ROVs to participate in competitions like [SAUVC](https://sauvc.org), [MATE ROV](https://www.materovcompetition.org), [ASRTU](http://www.asrtu.cn/en).
 
 <div id="badges">
