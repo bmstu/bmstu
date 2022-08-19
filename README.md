@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Links to awesome projects in Bauman Moscow State Technical University
+
+# Robotics
+## [1. Hydronautics](https://github.com/hidronautics)
+Our underwater robotics team. They make AUVs and ROVs to participate in competitions like [SAUVC](https://sauvc.org/), [MATE ROV](https://www.materovcompetition.org/), [ASRTU](http://www.asrtu.cn/en).
+
+Check them out: [GitHub](https://github.com/hidronautics) [VK](https://vk.com/hydronautics) [Instagram](https://instagram.com/hydronautics)
+
 <!--
 **bmstu/bmstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
