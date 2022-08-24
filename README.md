@@ -1,15 +1,15 @@
 # Here is a collection of awesome projects in Bauman Moscow State Technical University
 
 ## Robotics
-### 1. <a href="https://github.com/hidronautics"> <img src="https://github.com/bmstu/bmstu/blob/b8280581ffcb9d17e9570a38dc39196d1e27f7ae/logos/hydronautics/hydronautics_logo.jpg" width="200"/></a>
+### 1. <a href="https://github.com/hydronautics-team"> <img src="https://github.com/bmstu/bmstu/blob/b8280581ffcb9d17e9570a38dc39196d1e27f7ae/logos/hydronautics/hydronautics_logo.jpg" width="200"/></a>
 
 Our underwater robotics team. They make AUVs and ROVs to participate in competitions like [SAUVC](https://sauvc.org), [MATE ROV](https://www.materovcompetition.org), [ASRTU](http://www.asrtu.cn/en).
 
-<a href="https://github.com/hidronautics"> <img src="https://github.com/bmstu/bmstu/blob/0055ad6448599aeb9a2f279b943fecf824bfad81/logos/hydronautics/hydronautics_header.png"/></a>
+<a href="https://github.com/hydronautics-team"> <img src="https://github.com/bmstu/bmstu/blob/0055ad6448599aeb9a2f279b943fecf824bfad81/logos/hydronautics/hydronautics_header.png"/></a>
 
 
 <div id="badges">
-  <a href="https://github.com/hidronautics">
+  <a href="https://github.com/hydronautics-team">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://vk.com/hydronautics">
